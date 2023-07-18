@@ -12,3 +12,9 @@ archetype MY_AMB
 no_repeat
 volume -1
 gravel_falling
+
+schema stone_falling
+archetype MY_AMB
+no_repeat
+volume -1
+stone_falling
